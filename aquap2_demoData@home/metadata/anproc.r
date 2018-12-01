@@ -84,7 +84,7 @@ aqg.mod <- "classic"
 aqg.TCalib <- "symm@4"
 aqg.Texp <- 34
 aqg.bootCI <- FALSE
-aqg.R <- "def"
+aqg.R <- "nrow@2"
 aqg.smoothN <- 21
 aqg.selWls <- "def"
 aqg.msc <- TRUE

@@ -80,11 +80,11 @@ aqg.vars <- "C_waterTemp"				## which variables should be use to group the data?
 aqg.nrCorr <- "def"						## please see the help for ?calc_aqg_args and ?plot_aqg_args for further information regarding these arguments.
 aqg.spectra <- "all"
 aqg.minus <- "34"
-aqg.mod <- "aucs-dce"  
+aqg.mod <- "aucs.dce"  
 aqg.TCalib <- "symm@4"
 aqg.Texp <- 34
 aqg.bootCI <- TRUE
-aqg.R <- "def"
+aqg.R <- "nrow@2"
 aqg.smoothN <- 21
 aqg.selWls <- "def"
 aqg.msc <- TRUE
