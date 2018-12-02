@@ -1,3 +1,7 @@
+# this script is intended to be worked through "manually": 
+# the standard analysis procedure file ("anproc.r") is constantly modified, 
+# and the basic call to "gdmm" is always the same.
+#
 # this script generates the same analysis output as routine2.r, but with manual changes in analysis procedure files
 #
 # this hashtag (#) is to make comments for ourself in the code

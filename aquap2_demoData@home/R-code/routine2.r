@@ -1,3 +1,8 @@
+# this script can be run fully without any human interaction:
+# two different analysis procedure files are used which content remains strictly UNTOUCHED.
+# The call to "gdmm" is always slightly different, using the possibility to override parameters
+# in the analysis procedure file.
+#
 # this script generates the same analysis output as routine1.r, but without manual changes in analysis procedure files
 #
 library(aquap2) # load aquap2 package
