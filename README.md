@@ -4,6 +4,7 @@ This is the demo data resp. the course material showcasing some of the functions
 This demo-data were introduced at [The 3rd Aquaphotomics Symposium](http://conference.aquaphotomics.com/) in Japan in December 2018.
 
 ## Getting Started
-* Download this repository or clone it to a local drive, unzip; start either the R-Studio project file (!!!Start.Rproj) or set the folder "aquap2_demoData@home" as R working directory. 
-* copy the file "externalFiles/TempCalib_XDS" into the settings-home directory. (see ?updateSettings in aquap2) 
-* Execute the code in "aquap2_demoData@home/R-code".
+* Download this repository or clone it to a local drive. Do this by clicking the green button (towards top middle/right) that says `<>Code`, then click `Download ZIP`.
+* Unzip, open folder.* Start either the R-Studio project file (!!!Start.Rproj) or set the folder `aquap2_demoData@home` as R working directory. 
+* copy the file `externalFiles/TempCalib_XDS` into the settings-home directory. (see `?updateSettings` in aquap2) 
+* Execute the code in `aquap2_demoData@home/R-code`.
